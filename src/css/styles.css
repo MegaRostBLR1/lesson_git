@@ -7,3 +7,7 @@ span {
     color: grey;
     border: 1px solid blue;
 }
+
+hr {
+    max-width: 500px;
+}
