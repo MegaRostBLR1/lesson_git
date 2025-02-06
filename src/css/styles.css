@@ -15,3 +15,7 @@ p {
     font-weight: bold;
     color: red;
 }
+
+h1 {
+    font-weight: 400;
+}
